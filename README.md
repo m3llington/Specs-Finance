@@ -9,7 +9,7 @@ Built following the tutorial at https://blog.bitsrc.io/build-a-login-auth-app-wi
 
 <b>Budgeting App(React Js)</b>
 
-A  personal budgetting app that allows users track there transaction data. Has a form that allows the user to enter the name of the transaction, the amount, and wether or not it is an income or expense. Calculates budget total after user enters information. 
+A  personal budgetting app that allows users track there transaction data. Has a form that allows the user to enter the name of the transaction, the amount, and whether or not it is an income or expense. Calculates budget total after user enters information. 
 
 <b>Live Demo</b>
 
