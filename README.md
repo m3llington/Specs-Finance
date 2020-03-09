@@ -26,4 +26,9 @@ Deployed on Heroku https://surplus-finance.herokuapp.com/
 
 <b>Images of app:</b>
 
+![image](https://user-images.githubusercontent.com/50224404/76173682-e1789500-6177-11ea-98d5-2b6fc0120ee1.png)
+
+![image](https://user-images.githubusercontent.com/50224404/76173703-11279d00-6178-11ea-81e8-14e2d9940050.png)
+
+![image](https://user-images.githubusercontent.com/50224404/76173724-2f8d9880-6178-11ea-9253-07b5cf29ffab.png)
 
